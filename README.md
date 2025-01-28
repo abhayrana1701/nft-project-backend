@@ -55,7 +55,7 @@ npm install
 ```env
 JWT_SECRET=your_jwt_secret_key
 MONGODB_URI=your_mongo_db_connection_string
-PORT=5000  # You can change the port if needed
+PORT=3000  # You can change the port if needed
 ```
 
 4. Start the server:
